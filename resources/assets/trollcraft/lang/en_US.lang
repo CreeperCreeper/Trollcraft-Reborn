@@ -1,0 +1,18 @@
+item.TrollSoul.name=Troll Soul
+item.TrollCoal.name=Coal
+item.TrollDiamond.name=Diamond
+item.TrollMilk.name=Milk
+item.TrollSeeds.name=Seeds
+
+tile.TrollStone.name=Troll Stone
+tile.TrollironOre.name=Iron Ore
+tile.TrollcoalOre.name=Troll Coal Ore
+tile.TrollredstoneOre.name=Troll Redstone Ore
+tile.TrollgoldOre.name=Gold Ore
+tile.TrolldiamondOre.name=Troll Diamond Ore
+tile.TrollSand.name=Troll Sand
+tile.TrollTNT.name=Troll TNT
+tile.TrolllapisOre.name=Troll Lapis Ore
+tile.TrollDiamondBlock.name=Block of Diamond 
+
+itemGroup.TrollcraftTab=Trollcraft

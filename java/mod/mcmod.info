@@ -1,0 +1,16 @@
+[
+{
+  "modid": "trollcraft",
+  "name": "Trollcraft Reborn",
+  "description": "Trolls your friends in many ways!",
+  "version": "r1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["McpGames", "Raptorking94"],
+  "credits": "Raptorking94 and his mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
