@@ -4,6 +4,17 @@ item.TrollDiamond.name=Diamond
 item.TrollMilk.name=Milk
 item.TrollSeeds.name=Seeds
 
+item.weakDiamondHelmet.name=Diamond Helmet
+item.weakDiamondChestplate.name=Diamond Chestplate
+item.weakDiamondLeggings.name=Diamond Leggings
+item.weakDiamondBoots.name=Diamond Boots
+
+item.TrollDiamondPickaxe.name=Diamond Pickaxe
+item.TrollDiamondAxe.name=Diamond Axe
+item.TrollDiamondShovel.name=Diamond Shovel
+item.TrollDiamondHoe.name=Diamond Hoe
+item.TrollDiamondSword.name=Diamond Sword
+
 tile.TrollStone.name=Troll Stone
 tile.TrollironOre.name=Iron Ore
 tile.TrollcoalOre.name=Troll Coal Ore
@@ -15,4 +26,9 @@ tile.TrollTNT.name=Troll TNT
 tile.TrolllapisOre.name=Troll Lapis Ore
 tile.TrollDiamondBlock.name=Block of Diamond 
 
-itemGroup.TrollcraftTab=Trollcraft
+tile.TrollTorch.name=Torch
+
+itemGroup.TrollcraftTab=Trollcraft Reborn
+
+achievement.TrollachTime=Time To Troll!
+achievement.TrollachTime.desc=Craft a Troll Soul

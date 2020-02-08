@@ -18,7 +18,7 @@ public class Mod_TrollMilk extends ItemBucketMilk {
     {
         this.setMaxStackSize(1);
         this.setTextureName("minecraft:bucket_milk");
-        this.setCreativeTab(CreativeTabs.tabMisc);
+        this.setCreativeTab(CreativeTabs.tabFood);
     }
 }
 
@@ -27,12 +27,13 @@ public ItemStack onEaten(ItemStack itemStack, World world, EntityPlayer player) 
 
     if (!world.isRemote)
     {
-        player.addPotionEffect(new PotionEffect(Potion.hunger.id, 977, 1));
-        player.addPotionEffect(new PotionEffect(Potion.moveSlowdown.id, 977, 1));
-        player.addPotionEffect(new PotionEffect(Potion.weakness.id, 977, 1));
-        player.addPotionEffect(new PotionEffect(Potion.digSlowdown.id, 977, 1));
-        player.addPotionEffect(new PotionEffect(Potion.confusion.id, 977, 1));
-        player.addPotionEffect(new PotionEffect(Potion.blindness.id, 977, 1));
+        player.addPotionEffect(new PotionEffect(Potion.hunger.id, 1200, 1));
+        player.addPotionEffect(new PotionEffect(Potion.moveSlowdown.id, 1200, 1));
+        player.addPotionEffect(new PotionEffect(Potion.weakness.id, 1200, 1));
+        player.addPotionEffect(new PotionEffect(Potion.digSlowdown.id, 1200, 1));
+        player.addPotionEffect(new PotionEffect(Potion.confusion.id, 1200, 1));
+        player.addPotionEffect(new PotionEffect(Potion.blindness.id, 1200, 1));
+        
     }
 	return itemStack;
 
